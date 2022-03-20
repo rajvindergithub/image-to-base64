@@ -25,7 +25,7 @@
             <div class="col-md-12">
                 <div class="uploadFileMain">
                     <input type="file" name="uploadFileBase" id="uploadFileBase" class="uploadFileBase" />
-                    <label for="uploadFileBase">Click or Upload your file of Base64 Convert</label>
+                    <label for="uploadFileBase">Click or Upload your file of Base64 Convert and also update the issue file</label>
                 </div>
             </div>
         </div>
