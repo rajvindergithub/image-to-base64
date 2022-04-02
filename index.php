@@ -19,31 +19,7 @@
     <?php include('../nav.php'); ?>
 </div>
 
-<section id="uploadImageSection">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="uploadFileMain">
-                    <input type="file" name="uploadFileBase" id="uploadFileBase" class="uploadFileBase" />
-                    <label for="">Click or Upload your file of Base64 Convert</label>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="uploadImageSection">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="uploadFileMain">
-                    <input type="file" name="uploadFileBase" id="uploadFileBase" class="uploadFileBase" />
-                    <label for="">Click or Upload your file of Base64 Convert</label>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<h1>I Just removed some lines </h1>
 
 <section id="uploadImageSection">
     <div class="container">
